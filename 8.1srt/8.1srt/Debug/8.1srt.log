@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(11,28): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(11,18): warning C4309: 'argument': truncation of constant value
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(14,25): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(14,15): warning C4309: 'argument': truncation of constant value
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(10,6): warning C4101: 'pos': unreferenced local variable
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(35,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  8.1srt.vcxproj -> C:\Users\Користува\source\repos\ап\8.1srt\Debug\8.1srt.exe

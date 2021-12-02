@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  ut 8.1str.cpp
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(11,28): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(11,18): warning C4309: 'argument': truncation of constant value
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(14,25): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(14,15): warning C4309: 'argument': truncation of constant value
+C:\Users\Користува\source\repos\ап\8.1srt\8.1srt\Source.cpp(10,6): warning C4101: 'pos': unreferenced local variable
+     Creating library C:\Users\Користува\source\repos\ап\8.1srt\Debug\ut 8.1str.lib and object C:\Users\Користува\source\repos\ап\8.1srt\Debug\ut 8.1str.exp
+  ut 8.1str.vcxproj -> C:\Users\Користува\source\repos\ап\8.1srt\Debug\ut 8.1str.dll
